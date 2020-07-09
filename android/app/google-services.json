@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049869007877",
+    "firebase_url": "https://flash-chat-bdde3.firebaseio.com",
+    "project_id": "flash-chat-bdde3",
+    "storage_bucket": "flash-chat-bdde3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049869007877:android:b752d91ac36046f5f5706c",
+        "android_client_info": {
+          "package_name": "com.nikhil.Chat_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049869007877-i5lnkbjvkni2lnh4br8t531qbsh3ef91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRQo9n6PyFoHvLklJC3_8wzof7QzfYEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049869007877-i5lnkbjvkni2lnh4br8t531qbsh3ef91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
